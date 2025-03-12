@@ -12,6 +12,8 @@
  *  => 실제 토크 T [N·m] = Kt [N·m/A] × I_q [A]
  */
 
+// This source code is for a proprioceptive actuator v2. torque sensing using q-axis current sensing
+
 #include <SimpleFOC.h>  // SimpleFOC 라이브러리
 #include <math.h>
 
